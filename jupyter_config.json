@@ -1,6 +1,6 @@
 {
   "VoilaConfiguration": {
     "template": "real",
-    "show-traceback": "True"
+    "show-tracebacks": "True"
   }
 }
