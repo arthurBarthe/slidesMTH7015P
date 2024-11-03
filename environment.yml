@@ -7,3 +7,5 @@ dependencies:
   - scipy
   - voila
   - kagglehub
+  - ipywidgets
+  - pandas
