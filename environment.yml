@@ -5,7 +5,7 @@ dependencies:
   - python=3.11
   - numpy
   - scipy
-  - voila
+  - voila=0.5.8
   - kagglehub
   - ipywidgets
   - pandas
