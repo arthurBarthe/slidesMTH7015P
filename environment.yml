@@ -5,9 +5,11 @@ dependencies:
   - python=3.11
   - numpy
   - scipy
-  - voila=0.5.8
+  - voila
   - kagglehub
   - ipywidgets
   - pandas
   - matplotlib
   - ipympl
+  - jupyter_contrib_nbextensions
+  - jupyter_nbextensions_configurator
